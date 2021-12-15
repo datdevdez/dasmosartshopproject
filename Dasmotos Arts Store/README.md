@@ -1,5 +1,5 @@
 Project Name: Dasmotos Arts Store
-Poject Developer: Dezmond Williams
+Project Developer: Dezmond Williams
 Project Description:
 
 In this project, you’ll build a simple website for a fictional arts and crafts store using the tools on your own computer using HTML & CSS.
