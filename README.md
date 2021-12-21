@@ -2,7 +2,7 @@ Project Name: Dasmotos Arts Store
 
 Project Developer: Dezmond Williams
 
-Project Link: https://datdevdez.github.io/dasmotosartshopproject/
+Project Link: https://datdevdez.github.io/dasmotos-art-shop-project/
 
 Project Description:
 
